@@ -8,7 +8,7 @@ const Certifications = () => {
       name: "NPTEL Introduction to Machine Learning",
       icon: Shield,
       issuer: "NPTEL (IIT Madras)",
-      year: "2023",
+      year: "2024",
       level: "Undergraduate-Level"
     },
     {
