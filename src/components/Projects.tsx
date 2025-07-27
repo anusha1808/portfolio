@@ -139,21 +139,6 @@ const Projects = () => {
             </Card>
           ))}
         </div>
-        
-        <div className="text-center mt-12">
-          <p className="text-muted-foreground mb-4">
-            Want to see more of my work?
-          </p>
-          <Button 
-            variant="outline" 
-            className="border-glass bg-glass backdrop-blur-md hover:bg-primary/10"
-            asChild
-          >
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer">
-              View All Projects on GitHub
-            </a>
-          </Button>
-        </div>
       </div>
     </section>
   );
